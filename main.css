@@ -1,0 +1,29 @@
+body {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    background-color: #fefefe;
+}
+
+#title{
+    margin: 0 auto;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;    
+    font-size: 1.2em;
+    font-family: 'Open Sans Condensed';
+    letter-spacing: 5px;
+}
+#name {    
+    margin: 0 auto;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;    
+    font-size: 5em;
+    font-family: 'Open Sans Condensed';
+    letter-spacing: 11px;
+}
+
+
+.container {
+    width: 100%;
+    margin: 19% auto;
+}
